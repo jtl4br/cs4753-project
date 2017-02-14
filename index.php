@@ -16,7 +16,7 @@
 
     <!-- Header -->
     <header id="header" class="alt">
-        <h1 id="logo"><a href="index.html">Name <span>Goes Here</span></a></h1>
+        <h1 id="logo"><a href="../">Prep<span>Stack</span></a></h1>
         <nav id="nav">
             <ul>
                 <li class="current"><a href="javascript:void(0);">Home</a></li>
@@ -30,7 +30,7 @@
     <section id="banner">
         <div class="inner">
             <header>
-                <h2>Name Here</h2>
+                <h2>Prep<b>Stack</b></h2>
             </header>
             <p>Are you ready to land your <b>dream job</b> in tech?</p>
             <footer>

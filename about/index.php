@@ -16,7 +16,7 @@
 
     <!-- Header -->
     <header id="header" class="alt">
-        <h1 id="logo"><a href="../">Name <span>Goes Here</span></a></h1>
+        <h1 id="logo"><a href="../">Prep<span>Stack</span></a></h1>
         <nav id="nav">
             <ul>
                 <li class="current"><a href="../">Home</a></li>
