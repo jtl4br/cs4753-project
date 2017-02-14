@@ -1,14 +1,7 @@
-<?php
-?>
 <!DOCTYPE HTML>
-<!--
-	Twenty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 <head>
-    <title>Twenty by HTML5 UP</title>
+    <title>HOME</title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
@@ -17,12 +10,13 @@
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
     <!-- <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css"> -->
 </head>
+
 <body class="index">
 <div id="page-wrapper">
 
     <!-- Header -->
     <header id="header" class="alt">
-        <h1 id="logo"><a href="index.html">Twenty <span>by HTML5 UP</span></a></h1>
+        <h1 id="logo"><a href="index.html">Name <span>Goes Here</span></a></h1>
         <nav id="nav">
             <ul>
                 <li class="current"><a href="javascript:void(0);">Home</a></li>
@@ -34,19 +28,11 @@
 
     <!-- Banner -->
     <section id="banner">
-
-        <!--
-            ".inner" is set up as an inline-block so it automatically expands
-            in both directions to fit whatever's inside it. This means it won't
-            automatically wrap lines, so be sure to use line breaks where
-            appropriate (<br />).
-        -->
         <div class="inner">
-
             <header>
                 <h2>Name Here</h2>
             </header>
-            <p>This is <b>BLANK</b>, a <br/> peer-to-peer grocery delivery service.</p>
+            <p>Are you ready to land your <b>dream job</b> in tech?</p>
             <footer>
                 <ul class="buttons vertical">
                     <li><a href="#main" class="button fit scrolly">Tell Me More</a></li>
@@ -59,7 +45,6 @@
     <article id="main">
 
         <header class="special container">
-            <span class="icon fa-bar-chart-o"></span>
             <h2>As this is my <strong>twentieth</strong> freebie for HTML5 UP
                 <br />
                 I decided to give it a really creative name.</h2>
@@ -71,48 +56,17 @@
                 released for free under the <a href="http://html5up.net/license">Creative Commons Attribution 3.0</a> license. Have fun!</p>
         </header>
 
-        <!-- One -->
-        <section class="wrapper style2 container special-alt">
-            <div class="row 50%">
-                <div class="8u 12u(narrower)">
-
-                    <header>
-                        <h2>Behold the <strong>icons</strong> that visualize what you’re all about. or just take up space. your call bro.</h2>
-                    </header>
-                    <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu comteger ut fermentum lorem. Lorem ipsum dolor sit amet. Sed tristique purus vitae volutpat ultrices. eu elit eget commodo. Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo.</p>
-                    <footer>
-                        <ul class="buttons">
-                            <li><a href="#" class="button">Find Out More</a></li>
-                        </ul>
-                    </footer>
-
-                </div>
-                <div class="4u 12u(narrower) important(narrower)">
-
-                    <ul class="featured-icons">
-                        <li><span class="icon fa-clock-o"><span class="label">Feature 1</span></span></li>
-                        <li><span class="icon fa-volume-up"><span class="label">Feature 2</span></span></li>
-                        <li><span class="icon fa-laptop"><span class="label">Feature 3</span></span></li>
-                        <li><span class="icon fa-inbox"><span class="label">Feature 4</span></span></li>
-                        <li><span class="icon fa-lock"><span class="label">Feature 5</span></span></li>
-                        <li><span class="icon fa-cog"><span class="label">Feature 6</span></span></li>
-                    </ul>
-
-                </div>
-            </div>
-        </section>
-
         <!-- Two -->
-        <section class="wrapper style1 container special">
+        <section class="wrapper style2 container special">
             <div class="row">
                 <div class="4u 12u(narrower)">
 
                     <section>
                         <span class="icon featured fa-check"></span>
                         <header>
-                            <h3>This is Something</h3>
+                            <h3><b>Ace</b> your interviews</h3>
                         </header>
-                        <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+                        <p>We provide top-tier technical interview questions and design-thinking questions for preparing for your interviews developed by students and real professionals.</p>
                     </section>
 
                 </div>
@@ -121,9 +75,9 @@
                     <section>
                         <span class="icon featured fa-check"></span>
                         <header>
-                            <h3>Also Something</h3>
+                            <h3>Consult with <b>real professionals</b></h3>
                         </header>
-                        <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+                        <p>We connect you with professionals in the field that can help with interview preparation, job searching, and more.</p>
                     </section>
 
                 </div>
@@ -132,98 +86,31 @@
                     <section>
                         <span class="icon featured fa-check"></span>
                         <header>
-                            <h3>Probably Something</h3>
+                            <h3>Discuss and <b>connect</b></h3>
                         </header>
-                        <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
+                        <p>Connect with students at U.Va. who have been through the interview process and meet students who are looking for jobs just like you.</p>
                     </section>
 
                 </div>
             </div>
         </section>
-
-        <!-- Three -->
-        <section class="wrapper style3 container special">
-
-            <header class="major">
-                <h2>Next look at this <strong>cool stuff</strong></h2>
-            </header>
-
-            <div class="row">
-                <div class="6u 12u(narrower)">
-
-                    <section>
-                        <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a>
-                        <header>
-                            <h3>A Really Fast Train</h3>
-                        </header>
-                        <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-                    </section>
-
-                </div>
-                <div class="6u 12u(narrower)">
-
-                    <section>
-                        <a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
-                        <header>
-                            <h3>An Airport Terminal</h3>
-                        </header>
-                        <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-                    </section>
-
-                </div>
-            </div>
-            <div class="row">
-                <div class="6u 12u(narrower)">
-
-                    <section>
-                        <a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
-                        <header>
-                            <h3>Hyperspace Travel</h3>
-                        </header>
-                        <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-                    </section>
-
-                </div>
-                <div class="6u 12u(narrower)">
-
-                    <section>
-                        <a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
-                        <header>
-                            <h3>And Another Train</h3>
-                        </header>
-                        <p>Sed tristique purus vitae volutpat commodo suscipit amet sed nibh. Proin a ullamcorper sed blandit. Sed tristique purus vitae volutpat commodo suscipit ullamcorper sed blandit lorem ipsum dolore.</p>
-                    </section>
-
-                </div>
-            </div>
-
-            <footer class="major">
-                <ul class="buttons">
-                    <li><a href="#" class="button">See More</a></li>
-                </ul>
-            </footer>
-
-        </section>
-
     </article>
 
     <!-- CTA -->
     <section id="cta">
-
         <header>
-            <h2>Ready to do <strong>something</strong>?</h2>
-            <p>Proin a ullamcorper elit, et sagittis turpis integer ut fermentum.</p>
+            <h2>Ready to <strong>get practicing</strong>?</h2>
+            <p>Sign up for free here.</p>
         </header>
         <footer>
             <ul class="buttons">
-                <li><a href="#" class="button special">Take My Money</a></li>
-                <li><a href="#" class="button">LOL Wut</a></li>
+                <li><a href="javascript:void(0);" class="button special">Sign up</a></li>
+                <li><a href="about" class="button">I want to learn more first</a></li>
             </ul>
         </footer>
-
     </section>
 
-    <!-- Footer -->
+    <!-- Footer
     <footer id="footer">
 
         <ul class="icons">
@@ -238,8 +125,7 @@
             <li>&copy; Untitled</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
         </ul>
 
-    </footer>
-
+    </footer>-->
 </div>
 
 <!-- Scripts -->
