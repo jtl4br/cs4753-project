@@ -40,7 +40,7 @@
 
                     <section>
                         <header>
-                            <h3>This is Something</h3>
+                            <h3>Peer-to-Peer Practice</h3>
                         </header>
                         <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
                     </section>
@@ -50,7 +50,7 @@
 
                     <section>
                         <header>
-                            <h3>Also Something</h3>
+                            <h3>Professional Guidance</h3>
                         </header>
                         <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
                     </section>
@@ -60,7 +60,7 @@
 
                     <section>
                         <header>
-                            <h3>Probably Something</h3>
+                            <h3>Extensive Resources</h3>
                         </header>
                         <p>Sed tristique purus vitae volutpat ultrices. Aliquam eu elit eget arcu commodo suscipit dolor nec nibh. Proin a ullamcorper elit, et sagittis turpis. Integer ut fermentum.</p>
                     </section>
