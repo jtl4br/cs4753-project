@@ -78,7 +78,7 @@
         <footer>
             <ul class="buttons">
                 <li><a href="javascript:void(0);" class="button special">Sign up</a></li>
-                <li><a href="about" class="button">I want to learn more first</a></li>
+                <li><a href="about" class="button">Learn More</a></li>
             </ul>
         </footer>
     </section>
