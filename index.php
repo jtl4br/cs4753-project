@@ -45,9 +45,8 @@
     <article id="main">
 
         <header class="special container">
-            <h2>As this is my <strong>twentieth</strong> freebie for HTML5 UP
-                <br />
-                I decided to give it a really creative name.</h2>
+            <h2>Get the <em>preparation</em> and <em>guidance</em> you need to 
+                <br /><em>succeed</em> in your next tech interview </h2>
             <p>Turns out <strong>Twenty</strong> was the best I could come up with. Anyway, lame name aside,
                 <br />
                 it's minimally designed, fully responsive, built on HTML5/CSS3/<strong>skel</strong>,
